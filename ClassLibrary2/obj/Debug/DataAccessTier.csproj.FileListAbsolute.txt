@@ -1,0 +1,10 @@
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.dll.config
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary1.dll
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\ClassLibrary1.pdb
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\DataAccessTier.csprojAssemblyReference.cache
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\DataAccessTier.csproj.CoreCompileInputs.cache
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\DataAccessTier.csproj.CopyComplete
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\benjy\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

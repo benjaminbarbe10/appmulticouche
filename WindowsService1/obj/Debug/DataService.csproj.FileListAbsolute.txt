@@ -1,0 +1,7 @@
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\obj\Debug\DataService.csprojAssemblyReference.cache
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\benjy\source\repos\ClassLibrary1\WindowsService1\obj\Debug\WindowsService1.pdb

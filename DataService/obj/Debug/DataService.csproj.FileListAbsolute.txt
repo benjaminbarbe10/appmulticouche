@@ -1,0 +1,7 @@
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\bin\Debug\DataService.dll.config
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\bin\Debug\DataService.dll
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\bin\Debug\DataService.pdb
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\obj\Debug\DataService.csprojAssemblyReference.cache
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\obj\Debug\DataService.csproj.CoreCompileInputs.cache
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\obj\Debug\DataService.dll
+C:\Users\benjy\source\repos\ClassLibrary1\DataService\obj\Debug\DataService.pdb
